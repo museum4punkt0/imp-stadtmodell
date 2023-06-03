@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>46a03da0797f1484eace0348c87d6400</guid>
+    <fileName>Assets/Plugins/ARFoundationRemoteInstaller/Scripts/ARFoundationRemoteInstaller.cs</fileName>
+    <timeStamp>2023-02-01T02:17:25+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53ad3c58be44b4bd38be78ab53f15d23</guid>
+    <fileName>Assets/Plugins/ARFoundationRemoteInstaller/Scripts/ARFoundationRemoteInstallerInspector.cs</fileName>
+    <timeStamp>2023-02-01T02:17:25+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3ada2d85a48441fb9390ce3fab015d2</guid>
+    <fileName>Assets/Plugins/ARFoundationRemoteInstaller/Scripts/AssemblyInfo.cs</fileName>
+    <timeStamp>2023-02-01T02:17:27+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2807b3de05e94e0a83ee25699b41927</guid>
+    <fileName>Assets/Plugins/ARFoundationRemoteInstaller/Scripts/AssetPostprocessor.cs</fileName>
+    <timeStamp>2023-02-01T02:17:29+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e870e3352f03d42df9ecb97d6cf02948</guid>
+    <fileName>Assets/Plugins/ARFoundationRemoteInstaller/Scripts/CompanionAppInstaller.cs</fileName>
+    <timeStamp>2023-02-01T02:17:28+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8986153652eaa44282d644e6a622146</guid>
+    <fileName>Assets/Scripts/ARTargetObjectSpawner.cs</fileName>
+    <timeStamp>2023-04-26T11:03:28.0800563+02:00</timeStamp>
+    <typeFullName>
+      <string>ARTargetObjectSpawner</string>
+      <string>ARSpawnImageObjectPair</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>650a45a045e92478a9d4ce3ff7858893</guid>
+    <fileName>Assets/Scripts/ARWorldMapController.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0142692+02:00</timeStamp>
+    <typeFullName>
+      <string>ARWorldMapController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff972934a5304fb4d974818fc36fc026</guid>
+    <fileName>Assets/Scripts/BikeSpeed.cs</fileName>
+    <timeStamp>2023-03-09T19:47:44.5435341+01:00</timeStamp>
+    <typeFullName>
+      <string>BikeSpeed</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c96745b4d2a57b47a5f1fc38669193c</guid>
+    <fileName>Assets/Scripts/BIlboardY.cs</fileName>
+    <timeStamp>2023-04-08T15:01:04.383762+02:00</timeStamp>
+    <typeFullName>
+      <string>BIlboardY</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a8733e63b91f26c468ba37050c920cdb</guid>
+    <fileName>Assets/Scripts/CameraControl.cs</fileName>
+    <timeStamp>2023-03-10T10:18:30.491992+01:00</timeStamp>
+    <typeFullName>
+      <string>CameraControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce60051a517f14cbda8ced9620720755</guid>
+    <fileName>Assets/Scripts/EditMe.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0713074+02:00</timeStamp>
+    <typeFullName>
+      <string>EditMe</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b15370be62e64143ad295d846b079cb</guid>
+    <fileName>Assets/Scripts/Entwiklung.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.072305+02:00</timeStamp>
+    <typeFullName>
+      <string>Entwiklung</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bd3fd61e1b414db9b546ab61a37bdbf</guid>
+    <fileName>Assets/Scripts/GardenDrying.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.072305+02:00</timeStamp>
+    <typeFullName>
+      <string>GardenDrying</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>231d2996bbacb478f834c93ca74036c7</guid>
+    <fileName>Assets/Scripts/HideThunderstorm.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.072305+02:00</timeStamp>
+    <typeFullName>
+      <string>HideThunderstorm</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed4c237f4eba142548ed1e5115db0fca</guid>
+    <fileName>Assets/Scripts/LampenShtanz.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0733024+02:00</timeStamp>
+    <typeFullName>
+      <string>LampenShtanz</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2415699a362e0014187fc3757af5e8eb</guid>
+    <fileName>Assets/Scripts/LinaBikeUI.cs</fileName>
+    <timeStamp>2023-02-03T00:58:06.6378009+01:00</timeStamp>
+    <typeFullName>
+      <string>LinaBikeUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e75324b69ce624282b47de768c372743</guid>
+    <fileName>Assets/Scripts/OnlyActiveInSequence.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0782895+02:00</timeStamp>
+    <typeFullName>
+      <string>OnlyActiveInSequence</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>874ff7553283f4276aa0f361e457722f</guid>
+    <fileName>Assets/Scripts/PlaneLuka.cs</fileName>
+    <timeStamp>2023-04-09T23:15:23.8795147+02:00</timeStamp>
+    <typeFullName>
+      <string>PlaneLuka</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68bde066fa5df46b0bbc8e3078f47031</guid>
+    <fileName>Assets/Scripts/PlaneTrackingModeVisualizer.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0782895+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.XR.ARFoundation.Samples.PlaneTrackingModeVisualizer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ccfdccf1c3e245669c70b6df533d60f</guid>
+    <fileName>Assets/Scripts/PlayableManager.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0792861+02:00</timeStamp>
+    <typeFullName>
+      <string>PlayableManager</string>
+      <string>PlayableManager+SceneState</string>
+      <string>SceneStateAssociations</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b993dc06aa5447499acbcafd30323fb</guid>
+    <fileName>Assets/Scripts/PolyImageSubTracker.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0792861+02:00</timeStamp>
+    <typeFullName>
+      <string>PolyImageSubTracker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e3c512474eefa24794b6726366c5ae2</guid>
+    <fileName>Assets/Scripts/PolyImageTrack.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0185944+02:00</timeStamp>
+    <typeFullName>
+      <string>PolyImageTrack</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d19a6ee3a03ab4e4f9c412a34d7b51aa</guid>
+    <fileName>Assets/Scripts/Room.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0802839+02:00</timeStamp>
+    <typeFullName>
+      <string>Room</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1e23475885714d82a75cd9f27a44b47</guid>
+    <fileName>Assets/Scripts/RuntimeTransformer.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0812811+02:00</timeStamp>
+    <typeFullName>
+      <string>RuntimeTransformer</string>
+      <string>RuntimeTransformer+TransformerMode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bc488f15d7b143819c4283824666344</guid>
+    <fileName>Assets/Scripts/SequenceResetAnimators.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0822783+02:00</timeStamp>
+    <typeFullName>
+      <string>SequenceResetAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dae150fde63dce446ba30c0e9ad75f89</guid>
+    <fileName>Assets/Scripts/SpriteToShadowCasterMat.cs</fileName>
+    <timeStamp>2023-03-28T00:43:45.5670685+02:00</timeStamp>
+    <typeFullName>
+      <string>SpriteToShadowCasterMat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa17e3209fe924cd68775cf34474d8b1</guid>
+    <fileName>Assets/Scripts/StartLina.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0185944+02:00</timeStamp>
+    <typeFullName>
+      <string>StartLina</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c7b243702d1dcf44ad07c2838f21a26</guid>
+    <fileName>Assets/Scripts/ToggleEditorCamera.cs</fileName>
+    <timeStamp>2023-03-21T23:02:48.4359971+01:00</timeStamp>
+    <typeFullName>
+      <string>ToggleEditorCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec86a525e9b767944a8517e77cc37d82</guid>
+    <fileName>Assets/Scripts/ToggleMaterial.cs</fileName>
+    <timeStamp>2023-04-12T01:09:09.6278178+02:00</timeStamp>
+    <typeFullName>
+      <string>ToggleMaterial</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97329ca19fde94ce68cb49dc966a26dc</guid>
+    <fileName>Assets/Scripts/Worm.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0832752+02:00</timeStamp>
+    <typeFullName>
+      <string>Worm</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79a669c4bbd944b8695da8cabba34eea</guid>
+    <fileName>Assets/Scripts/WormSpawnwer.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0832752+02:00</timeStamp>
+    <typeFullName>
+      <string>WormSpawnwer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>64aa6f3885937444eb7e78994960c23c</guid>
+    <fileName>Assets/Animations2D/leptir/ButterflyMaster.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0131435+02:00</timeStamp>
+    <typeFullName>
+      <string>ButterflyMaster</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35dcfdd13e3c9e047acbe6207e591b0a</guid>
+    <fileName>Assets/Animations2D/leptir/ButterflyRandomMovement.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0211113+02:00</timeStamp>
+    <typeFullName>
+      <string>ButterflyRandomMovement</string>
+      <string>ButteflyState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2bc44b0609ff444c8d8a3993609e58c</guid>
+    <fileName>Assets/Scripts/Luka/AnimatorBoolHelper.cs</fileName>
+    <timeStamp>2023-04-11T15:44:05.170729+02:00</timeStamp>
+    <typeFullName>
+      <string>AnimatorBoolHelper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>321fdd428f1c7844c8ae5703fead0e18</guid>
+    <fileName>Assets/Scripts/Luka/ARPersistentObject.cs</fileName>
+    <timeStamp>2023-02-04T12:07:51.2544301+01:00</timeStamp>
+    <typeFullName>
+      <string>ARPersistentObjectData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>348cd2aa36ea74a41a994f7b09dd649c</guid>
+    <fileName>Assets/Scripts/Luka/Beacon.cs</fileName>
+    <timeStamp>2023-02-01T06:53:35.0778724+01:00</timeStamp>
+    <typeFullName>
+      <string>Beacon</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5eac9bde5e713b4aa01348e1afc5dd3</guid>
+    <fileName>Assets/Scripts/Luka/BeaconManager.cs</fileName>
+    <timeStamp>2023-02-04T14:48:05.3606781+01:00</timeStamp>
+    <typeFullName>
+      <string>BeaconManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c30bad0d98b42048adda5228b16aa6c</guid>
+    <fileName>Assets/Scripts/Luka/BeaconPosition.cs</fileName>
+    <timeStamp>2023-01-30T16:29:54.1520272+01:00</timeStamp>
+    <typeFullName>
+      <string>BeaconPosition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3dea515bdc2eaf44bf6d80f94c83ad7</guid>
+    <fileName>Assets/Scripts/Luka/BeaconsData.cs</fileName>
+    <timeStamp>2023-02-04T14:26:50.0053256+01:00</timeStamp>
+    <typeFullName>
+      <string>BeaconsData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d934a09bf01c45d3879c4c49e9742f0</guid>
+    <fileName>Assets/Scripts/Luka/ButterflySpot.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0152679+02:00</timeStamp>
+    <typeFullName>
+      <string>ButterflySpot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba09d873d3beb4e7d929e8d1b420aa59</guid>
+    <fileName>Assets/Scripts/Luka/DebugManager.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0152679+02:00</timeStamp>
+    <typeFullName>
+      <string>DebugManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f291664f010e24c7e96dd948bdd209cb</guid>
+    <fileName>Assets/Scripts/Luka/DiverSound.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0743008+02:00</timeStamp>
+    <typeFullName>
+      <string>DiverSound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>330c1a45fc6a7a84bbb088c185f0d047</guid>
+    <fileName>Assets/Scripts/Luka/GetCameraFeed.cs</fileName>
+    <timeStamp>2023-03-12T15:11:41.6019652+01:00</timeStamp>
+    <typeFullName>
+      <string>GetCameraFeed</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>579b94c8443dbfc4ca9901bd420d7b65</guid>
+    <fileName>Assets/Scripts/Luka/Jelentrc.cs</fileName>
+    <timeStamp>2023-04-10T01:59:13.3286777+02:00</timeStamp>
+    <typeFullName>
+      <string>Jelentrc</string>
+      <string>Jelentrc+JelaDirection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ccdfb1aba30a3c14b8e3be6570de02a4</guid>
+    <fileName>Assets/Scripts/Luka/LookAtLookFromRun.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0162661+02:00</timeStamp>
+    <typeFullName>
+      <string>LookAtLookFromRun</string>
+      <string>LookAtLookFromRun+OnVisibleEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98ddd7ce90ff94e429a2c9113dfe4537</guid>
+    <fileName>Assets/Scripts/Luka/MasterManager.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0172626+02:00</timeStamp>
+    <typeFullName>
+      <string>MasterManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>699ccdf14ad6dab49bc90278a14c511d</guid>
+    <fileName>Assets/Scripts/Luka/SwimmerBanking.cs</fileName>
+    <timeStamp>2023-03-09T18:37:07.7596171+01:00</timeStamp>
+    <typeFullName>
+      <string>SwimmerBanking</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>250c7356f0cf94f70b793c24145b4f11</guid>
+    <fileName>Assets/Scripts/Luka/TouchManager.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0762944+02:00</timeStamp>
+    <typeFullName>
+      <string>TouchManager</string>
+      <string>TouchManager+Tap</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1cc0380b8bd3e4c99b83633d4fadfd38</guid>
+    <fileName>Assets/Scripts/Luka/TrackableStateResponder.cs</fileName>
+    <timeStamp>2023-04-08T15:01:04.3917389+02:00</timeStamp>
+    <typeFullName>
+      <string>TrackableStateResponder</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc10e0be4c7658c43806f2c3e4a90c59</guid>
+    <fileName>Assets/Scripts/Luka/VolksbadRoot.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0172626+02:00</timeStamp>
+    <typeFullName>
+      <string>VolksbadRoot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9371b1a734d977842b52350eba34a5da</guid>
+    <fileName>Assets/Scripts/Luka/WallcoloredSprite.cs</fileName>
+    <timeStamp>2023-03-12T23:51:45.7603365+01:00</timeStamp>
+    <typeFullName>
+      <string>WallcoloredSprite</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba3a8c57275b07c4a8f0f086462678fb</guid>
+    <fileName>Assets/Scripts/Luka/WallcoloredVertices.cs</fileName>
+    <timeStamp>2023-04-10T20:48:35.2699078+02:00</timeStamp>
+    <typeFullName>
+      <string>WallcoloredVertices</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2befd6b6b852452f8db38bf9df34a49</guid>
+    <fileName>Assets/Scripts/Sequence/RunStateOnEnter.cs</fileName>
+    <timeStamp>2023-04-18T02:29:34.0822783+02:00</timeStamp>
+    <typeFullName>
+      <string>RunStateOnEnter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9909048d5fe6c41468a28c79b85916d5</guid>
+    <fileName>Assets/Scripts/UI/BackButton.cs</fileName>
+    <timeStamp>2022-11-19T02:33:33+01:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.XR.ARFoundation.Samples.BackButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b5c3fcac7a413e4681907dd337b357a</guid>
+    <fileName>Assets/Scripts/UI/CheckRenderLine.cs</fileName>
+    <timeStamp>2022-11-19T02:33:33+01:00</timeStamp>
+    <typeFullName>
+      <string>CheckRenderLine</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbd0ae0ae1036ef4daf50c4e0919af16</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe04fb6cea1aaa942a1f80f6950b62d2</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d17445c804f62854096c43399a460889</guid>
+    <fileName>Assets/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b15fc3cee9b496c458573acdcbfd2ee5</guid>
+    <fileName>Assets/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa64db49566702b4fb07ec5d59a8ca7b</guid>
+    <fileName>Assets/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2f361f139f1c9443bf7a0cab14278c1</guid>
+    <fileName>Assets/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a20e88917c569254a8ea415d310efbb1</guid>
+    <fileName>Assets/Animations2D/VOLKSBAD/peskir/Towel.cs</fileName>
+    <timeStamp>2023-06-03T13:58:35.0097993+02:00</timeStamp>
+    <typeFullName>
+      <string>Towel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c43eb09509eaab342b5e462e26dbf86a</guid>
+    <fileName>Assets/Scripts/Misc/Editor/AvatarMaker.cs</fileName>
+    <timeStamp>2023-02-01T04:23:40.9729321+01:00</timeStamp>
+    <typeFullName>
+      <string>Infrastructure.Editor.AvatarMaker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>

@@ -19,13 +19,10 @@ Media in accordance with a resolution issued by the German Bundestag (Parliament
 
 ## About
 
-This repository contains code (C# scripts, shaders) produced for the Linas Suche app. App was developed in Unity, and provided scripts have AR Foundation 5.0.2 as a dependency. 
+This repository contains Unity project produced for the Linas Suche app. It is compatible with Unity 2022.3.0f1
+Most of scripts are tailor-made for the in-app content (various animations, etc) and do not have much reuse value. These classes are in the *Scripts/CustomAnimationScripts* folder. 
 
-Most of scripts are tailor-made for the in-app content (various animations, etc) and do not have much reuse value. These classes are in the *CustomAnimationScripts* folder. 
-
-*AR* and *General* folders contain code which has broader use, containing solutions for aligining GameObjects to multiple Image Targets (*PolyImageTrack.cs*, *PolyImageSubTracker.cs*), aligning gallery space to both loaded WorldMap and detected image targets (*Room.cs*), masking background for animated AR content based on colors sampled from the camera feed (*WallcoloredVertices.cs*) etc.
-
-Since art assets of the project are not fit for hosting on GitHub (large files, large repository (>2GB)), and many cannot be shared under GPL license (3d scans of city model etc), only source code is included in this repository. Larger portions of the project could be made available on per-request basis.
+*Scripts/AR* and *Scripts/General* folders contain code which has broader use, containing solutions for aligining GameObjects to multiple Image Targets (*PolyImageTrack.cs*, *PolyImageSubTracker.cs*), aligning gallery space to both loaded WorldMap and detected image targets (*Room.cs*), masking background for animated AR content based on colors sampled from the camera feed (*WallcoloredVertices.cs*) etc.
 
 ## Installation 
 
