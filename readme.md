@@ -9,8 +9,6 @@ App is developed in Unity 2022.2.10 and AR Foundation 5.0.2
 
 ## Context of origin & funding notice
 
-Diese iOS AR App ist entstanden  im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft,  Teilprojekt imp – participate immersively. Virtual storytelling in the museum. Das  Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur  und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:  www.museum4punkt0.de 
-Falls benötigt – Englische Variante: 
 This iOS AR App is part of the project museum4punkt0 - Digital Strategies for the  Museum of the Future, sub-project imp – participate immersively. Virtual storytelling in the museum. The project museum4punkt0 is funded by the Federal Government  Commissioner for Culture and the 
 Media in accordance with a resolution issued by the German Bundestag (Parliament of the  Federal Republic of Germany). Further information: www.museum4punkt0.de 
 
